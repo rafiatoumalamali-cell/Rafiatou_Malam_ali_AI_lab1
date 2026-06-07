@@ -28,7 +28,7 @@
 
 | Name of AI Tool Used | Purpose for Using the Tool | Prompt or Instruction Given to the Tool | Part(s) of the Work Influenced by the Tool | How I Verified, Edited, or Improved the AI Output |
 |----------------------|---------------------------|------------------------------------------|---------------------------------------------|---------------------------------------------------|
-| DeepSeek Chat | Understanding search algorithm implementation, debugging code errors, learning Git/GitHub commands | "Help me structure my lab files", "What is the correct syntax for GridProblem methods" | PowerShell commands, Git workflow, Folder structure setup | I tested each algorithm on the sample grid, verified outputs matched expected behavior, ran self-check, created custom 15x15 and 20x20 maps to test thoroughly, corrected syntax errors, and ensured all code runs without errors |
+| DeepSeek Chat | Understanding search algorithm implementation, debugging code errors, learning Git/GitHub commands, learning colab environmet | "Help me structure my lab files", "What is the correct syntax for GridProblem methods", how do i create cell in colab, how do i  run the cells,  | PowerShell commands, Git workflow, Folder structure setup, colab setup, colab cells strucutre | I tested each algorithm on the sample grid, verified outputs matched expected behavior, ran self-check, created custom 15x15 and 20x20 maps to test thoroughly, corrected syntax errors, and ensured all code runs without errors |
 
 ---
 
@@ -64,8 +64,4 @@ I declare that:
 
 **Date:** 07/06/2026
 
----
 
-## Evidence: Screenshots
-
-*(Paste your screenshots below this line)*
